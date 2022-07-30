@@ -1,10 +1,11 @@
 import React from 'react';
+import './Footer.css';
 
 const Footer = () => {
     return (
         <div>
        
-<section id="footer" class="container-fluid bg-dark text-white fw-bold">
+<section id="footer" class="container-fluid text-white fw-bold">
 
   <div class="row">
       <div class="col-md-4 p-5">
